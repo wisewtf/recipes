@@ -1,4 +1,4 @@
-# Coconut Cheesecake
+Coconut Cheesecake
 
 Ingredients
 
@@ -22,14 +22,19 @@ Top Layer
 Instructions
 
 Base:
+
 Crush biscuits and mix with melted butter.
 Press the mixture into a form, forming sides.
+
 Filling:
+
 Whip cream cheese with yogurt and coconut.
 Melt white chocolate in the microwave (stir every 15 seconds).
 Add melted chocolate to the cheese mixture and stir.
 Spread the filling over the biscuit base.
+
 Top Layer:
+
 Heat coconut cream and add white chocolate to it.
 Mix until the chocolate melts.
 Pour the mixture over the filling.

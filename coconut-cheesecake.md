@@ -16,7 +16,7 @@
 
 ### Top Layer
 
-• 100 g Coconut cream
+• 100 g Coconut cream  
 • 80 g White chocolate
 
 ## Instructions

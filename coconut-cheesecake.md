@@ -2,21 +2,21 @@
 
 Coconut Cheesecake 🥥🍰 Savoring the blissful fusion of coconut and cheesecake vibes by @foodiepetit
 
-Ingredients:
+## Ingredients
 
-## Base
+### Base
 
 • 180 g Crushed biscuits  
 • 75 g Butter
 
-## Filling
+### Filling
 
 • 380 g Cream cheese  
 • 75 g Yoghurt  
 • 75 g Coconut flakes  
 • 200 g White chocolate
 
-## Top Layer
+### Top Layer
 
 • 100 g Coconut cream
 • 80 g White chocolate
